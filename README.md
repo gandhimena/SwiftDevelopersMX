@@ -12,7 +12,7 @@ Las pláticas deberían de ser acerca de todo lo relacionado con Apple, Swift, A
 
 ### Soy un speaker, ¿ahora qué? 📖
 
-Tenemos algo de información para quienes van a [presentar por primera vez], [aquellas que van adquiriendo experiencia], y ¡hasta para ya [experimentados!](#)
+Tenemos algo de información para quienes van a [presentar por primera vez](#), [aquellas que van adquiriendo experiencia](#), y ¡hasta para ya [experimentados!](#)
 
 ### Código de Conducta
 
